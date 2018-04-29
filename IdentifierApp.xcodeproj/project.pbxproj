@@ -272,6 +272,7 @@
 				CODE_SIGN_ENTITLEMENTS = IdentifierApp/IdentifierApp.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = 52FFD6NNS7;
 				INFOPLIST_FILE = IdentifierApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -290,6 +291,7 @@
 				CODE_SIGN_ENTITLEMENTS = IdentifierApp/IdentifierApp.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = 52FFD6NNS7;
 				INFOPLIST_FILE = IdentifierApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
