@@ -24,7 +24,7 @@ class AppDelegate: NSObject, NSApplicationDelegate {
             randomString += NSString(characters: &nextChar, length: 1) as String
         }
         
-        let number = arc4random_uniform(100) // [10, 99]
+        let number = 10 + arc4random_uniform(90) // [10, 99]
         let idString = randomString.prefix(2) + String(number) + randomString.suffix(3)
         
         copyToClipBoard(textToCopy: String(idString))
